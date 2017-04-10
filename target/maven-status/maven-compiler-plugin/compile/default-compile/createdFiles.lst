@@ -1,0 +1,5 @@
+Entities\DailyReport.class
+MainApp\Common.class
+HbConf\DBDao.class
+HbConf\HibernateClass.class
+MainApp\App.class
